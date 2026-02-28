@@ -1,9 +1,3 @@
-deepseek-word-explainer/  # 仓库根目录（命名简洁易懂）
-├── content.js            # 核心逻辑文件
-├── manifest.json         # 插件配置文件
-├── icon.png              # 插件图标（可选，48x48/128x128 PNG 格式）
-└── README.md             # 使用说明文档（核心）
-
 # DeepSeek 划词解释插件
 
 一款轻量级浏览器插件，支持划词后右键触发解释，弹窗固定在网页右上角，点击任意位置可关闭，适配所有网页。
