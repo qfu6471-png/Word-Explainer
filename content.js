@@ -1,5 +1,5 @@
 // ==================== 配置 ====================
-const API_KEY = "Bearer sk-209308d2dbb947e298ffa330a5409d66"; // 替换为你的真实Key
+const API_KEY = "Bearer abcd1234567890"; // abcd1234567890替换为你的真实Key
 const API_URL = "https://api.deepseek.com/v1/chat/completions";
 const MODEL = "deepseek-chat";
 
@@ -133,4 +133,5 @@ document.addEventListener("click", e => {
 
 // ==================== 初始化 ====================
 window.addEventListener("load", createPanel);
+
 console.log("✅ 带日志版划词解释已加载，按F12查看控制台日志");
